@@ -1,6 +1,12 @@
+body {
+
+    background-color: #212121; /* Cor de fundo desejada */
+
+} 
+
 h1 {
 
-    color: red;
+    color: rgb(245, 93, 6);
     height: auto;
     width: auto;
     text-align: center;
@@ -9,7 +15,7 @@ h1 {
 }
 
 p {
-    color: black;
+    color: rgb(255, 255, 255);
     height: auto;
     width: auto;
     text-align: center;
@@ -29,4 +35,9 @@ button {
     font-size:larger;
     height: 70px;
     width: 150px;
+}
+img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
