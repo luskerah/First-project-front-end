@@ -1,3 +1,3 @@
-//Comentário no JS vem depois de // */
-var mensagem = "Minha primeira Variável";
-alert(mensagem);
+function mensagem(){
+    alert("Ei, não clique em mim!");
+}
